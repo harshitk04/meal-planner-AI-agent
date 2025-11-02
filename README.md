@@ -1,4 +1,9 @@
-### Made by Harshit Kumar of IIT Roorkee Of Metallurgical and materials Engineering branch
+### Made by Harshit Kumar
+### College Name: IIT Roorkee 
+### Branch: Metallurgical and materials Engineering branch
+
+## Demo link : 
+https://drive.google.com/file/d/1bj8Rs1g6H_8UlFcbVKMxl1lslX87U4ZO/view?usp=sharing
 
 
 # 🍽️ Mess Meal Planner AI Agent
@@ -238,8 +243,6 @@ mess-meal-planner-frontend/
 ├── tailwind.config.js
 ├── next.config.js
 └── README.md
-
-text
 
 ---
 
