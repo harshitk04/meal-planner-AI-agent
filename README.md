@@ -1,4 +1,6 @@
-text
+### Made by Harshit Kumar of IIT Roorkee Of Metallurgical and materials Engineering branch
+
+
 # 🍽️ Mess Meal Planner AI Agent
 
 > AI-powered meal planning application for IIT Roorkee students to scan mess menus, track nutrition, and receive personalized meal recommendations based on fitness goals.
